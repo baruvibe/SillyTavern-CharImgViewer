@@ -36,7 +36,9 @@ You have three ways to open the gallery:
 
 ## 📷 Screenshots
 
-*(Optional: You can upload screenshots here later to show off your extension)*
+<img width="672" height="197" alt="arrowimg" src="https://github.com/user-attachments/assets/b1804f66-4da0-46bc-bb77-ecd694911214" />
+
+
 
 ## 📜 License
 
